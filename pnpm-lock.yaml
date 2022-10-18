@@ -5,7 +5,7 @@ specifiers:
   katex: ^0.16.2
   nuxt: ^2.15.8
   prismjs: ^1.29.0
-  vue-gtag: ^2.0.1
+  vue-gtag: ^1.16.1
   vue-katex: ^0.5.0
   vue-notion: ^1.4.3
 
@@ -14,7 +14,7 @@ dependencies:
   katex: 0.16.2
   nuxt: 2.15.8
   prismjs: 1.29.0
-  vue-gtag: 2.0.1
+  vue-gtag: 1.16.1
   vue-katex: 0.5.0_katex@0.16.2
   vue-notion: 1.4.3_prismjs@1.29.0
 
@@ -8260,10 +8260,10 @@ packages:
       vue: ^2.5.16
     dev: false
 
-  /vue-gtag/2.0.1:
-    resolution: {integrity: sha512-aM4A58FVL0wV2ptYi+xzAjeg+pQVRyUcfBc5UkXAwQrR4t3WBhor50Izp2I+3Oo7+l+vWJ7u78DGcNzReb8S/A==}
+  /vue-gtag/1.16.1:
+    resolution: {integrity: sha512-5vs0pSGxdqrfXqN1Qwt0ZFXG0iTYjRMu/saddc7QIC5yp+DKgjWQRpGYVa7Pq+KbThxwzzMfo0sGi7ISa6NowA==}
     peerDependencies:
-      vue: ^3.0.0
+      vue: ^2.0.0
     dev: false
 
   /vue-hot-reload-api/2.3.4:

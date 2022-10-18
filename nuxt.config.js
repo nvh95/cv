@@ -26,6 +26,6 @@ export default {
   plugins: [
     "~/plugins/vue-katex.js",
     "~/plugins/vue-custom-notion-component.js",
-    "@/plugins/gtag",
+    "~/plugins/gtag.js",
   ],
 };
