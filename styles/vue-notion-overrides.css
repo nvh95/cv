@@ -1,4 +1,3 @@
-/* Only override the first notion-row (contact section) */
 .notion .notion-row {
   justify-content: space-between;
 }
