@@ -1,0 +1,14 @@
+/* Only override the first notion-row (contact section) */
+.notion .notion-row {
+  justify-content: space-between;
+}
+
+.notion .notion-row div[fragment] > div[fragment].notion-column,
+.notion .notion-row div.notion-column {
+  width: auto !important;
+}
+
+.notion .notion-row div[fragment] > div[fragment].notion-spacer,
+.notion .notion-row div.notion-spacer {
+  width: 0 !important;
+}
