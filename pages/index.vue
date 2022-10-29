@@ -17,5 +17,6 @@ export default {
 </script>
 
 <style>
+@import "@/styles/vue-notion-overrides.css";
 @import "vue-notion/src/styles.css"; /* optional Notion-like styles */
 </style>
