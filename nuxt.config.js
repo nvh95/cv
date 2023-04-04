@@ -7,11 +7,16 @@ export default {
 
   // Global page headers (https://go.nuxtjs.dev/config-head)
   head: {
-    title: "Hung Nguyen - Creator of Jest Preview - CV",
+    title: "Hung Nguyen - Creator of Jest Preview and Vitest Preview - CV",
     meta: [
       { charset: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { hid: "description", name: "description", content: "" },
+      {
+        hid: "description",
+        name: "description",
+        content:
+          "Creator of Jest Preview and Vitest Preview. Open Source Enthusiast. Lifelong Learner.",
+      },
     ],
     link: [{ rel: "icon", type: "image/x-icon", href: "/favicon.ico" }],
   },
