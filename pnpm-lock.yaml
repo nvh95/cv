@@ -1660,7 +1660,7 @@ packages:
       '@nuxt/utils': 2.15.8
       babel-loader: 8.2.5_jeg5564y5etyvi3ajplf6yhqg4
       cache-loader: 4.1.0_webpack@4.46.0
-      caniuse-lite: 1.0.30001414
+      caniuse-lite: 1.0.30001474
       consola: 2.15.3
       css-loader: 4.3.0_webpack@4.46.0
       cssnano: 4.1.11
@@ -1943,7 +1943,7 @@ packages:
       source-map: 0.6.1
       vue-template-es2015-compiler: 1.9.1
     optionalDependencies:
-      prettier: 2.7.1
+      prettier: 2.8.7
     transitivePeerDependencies:
       - arc-templates
       - atpl
@@ -2350,7 +2350,7 @@ packages:
     hasBin: true
     dependencies:
       browserslist: 4.21.4
-      caniuse-lite: 1.0.30001414
+      caniuse-lite: 1.0.30001474
       normalize-range: 0.1.2
       num2fraction: 1.2.2
       picocolors: 0.2.1
@@ -2584,7 +2584,7 @@ packages:
     engines: {node: ^6 || ^7 || ^8 || ^9 || ^10 || ^11 || ^12 || >=13.7}
     hasBin: true
     dependencies:
-      caniuse-lite: 1.0.30001414
+      caniuse-lite: 1.0.30001474
       electron-to-chromium: 1.4.270
       node-releases: 2.0.6
       update-browserslist-db: 1.0.9_browserslist@4.21.4
@@ -2756,13 +2756,13 @@ packages:
     resolution: {integrity: sha512-bsTwuIg/BZZK/vreVTYYbSWoe2F+71P7K5QGEX+pT250DZbfU1MQ5prOKpPR+LL6uWKK3KMwMCAS74QB3Um1uw==}
     dependencies:
       browserslist: 4.21.4
-      caniuse-lite: 1.0.30001414
+      caniuse-lite: 1.0.30001474
       lodash.memoize: 4.1.2
       lodash.uniq: 4.5.0
     dev: false
 
-  /caniuse-lite/1.0.30001414:
-    resolution: {integrity: sha512-t55jfSaWjCdocnFdKQoO+d2ct9C59UZg4dY3OnUlSZ447r8pUtIKdp0hpAzrGFultmTC+Us+KpKi4GZl/LXlFg==}
+  /caniuse-lite/1.0.30001474:
+    resolution: {integrity: sha512-iaIZ8gVrWfemh5DG3T9/YqarVZoYf0r188IjaGwx68j4Pf0SGY6CQkmJUIE+NZHkkecQGohzXmBGEwWDr9aM3Q==}
     dev: false
 
   /chalk/2.4.2:
@@ -6651,7 +6651,7 @@ packages:
     dependencies:
       autoprefixer: 9.8.8
       browserslist: 4.21.4
-      caniuse-lite: 1.0.30001414
+      caniuse-lite: 1.0.30001474
       css-blank-pseudo: 0.1.4
       css-has-pseudo: 0.10.0
       css-prefers-color-scheme: 3.1.1
@@ -6830,8 +6830,8 @@ packages:
     engines: {node: '>=0.10.0'}
     dev: false
 
-  /prettier/2.7.1:
-    resolution: {integrity: sha512-ujppO+MkdPqoVINuDFDRLClm7D78qbDt0/NR+wp5FqEZOoTNAjPHWj17QRhu7geIHJfcNhRk1XVQmF8Bp3ye+g==}
+  /prettier/2.8.7:
+    resolution: {integrity: sha512-yPngTo3aXUUmyuTjeTUT75txrf+aMh9FiD7q9ZE/i6r0bPb22g4FsE6Y338PQX1bmfy08i9QQCB7/rcUAVntfw==}
     engines: {node: '>=10.13.0'}
     hasBin: true
     requiresBuild: true
